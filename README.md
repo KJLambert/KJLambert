@@ -3,7 +3,7 @@
 - 🌱 I’m always learning uses of cloud technologies, API's, databases. Constantly learning.
 - 💞️ I’m open to collaborations. Primary experience in microbial genomics research.
 - 📫 I can be reached at klmbrt88@gmail.com
--  on a portfolio to include python, R, databases and SQL queries. Potentially expanding into lightweight applications.
+- Working on a portfolio to include python, R, databases and SQL queries. Potentially expanding into lightweight applications.
 
 <!---
 KJLambert/KJLambert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
